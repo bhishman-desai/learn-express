@@ -5,3 +5,11 @@
 20240520	22:56:46	25c610bb-6fcf-41b9-b6f4-645a2f3835bc	GET	undefined	/
 20240520	22:56:46	9aee2fd7-d8da-4310-b7fa-2d79428d5cb5	GET	undefined	/css/style.css
 20240520	22:56:57	65c39374-f5fa-4bea-8871-2b06d00174eb	GET	undefined	/
+20240520	23:28:44	f6675fcd-cfd7-4149-affe-9b0fed241536	GET	undefined	/
+20240520	23:29:20	3bf5296e-e185-441b-85f3-2407e64b18b6	GET	undefined	/
+20240520	23:29:20	790778f9-a7b4-4f08-8657-3b75607797fc	GET	undefined	/public/css/style.css
+20240520	23:29:34	f25ef820-8c5d-4f5a-8ccf-d035974cc143	GET	undefined	/api/employees
+20240520	23:30:05	4d53386b-9db2-4ecb-b6c1-abb73cd5fb6b	GET	undefined	/api/employees
+20240520	23:30:06	053874de-e3a1-42b9-9166-12e97bc949a8	GET	undefined	/api/employees
+20240520	23:30:57	da5ba959-abde-4884-a4f5-4293b77d5239	GET	undefined	/employees
+20240520	23:30:59	fa530899-0cb0-405e-bbe0-1e3154b32c11	GET	undefined	/employees
