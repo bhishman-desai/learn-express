@@ -1,33 +1,14 @@
 const express = require('express');
 const router = express.Router();
-const data = {}
-data.employees = require('../../data/employees.json')
+const employeesController = require('../../controllers/employeesController');
 
-/*All http methods chained for / route */
 router.route('/')
-    .get((req, res) => {
-        res.json(data.employees);
-    })
-    .post((req, res) => {
-        res.json({
-            "firstname": req.body.firstname,
-            "lastname": req.body.lastname
-        });
-    })
-    .put((req, res) => {
-        res.json({
-            "firstname": req.body.firstname,
-            "lastname": req.body.lastname
-        });
-    })
-    .delete((req, res) => {
-        res.json({"id": req.body.id})
-    });
+    .get(employeesController.getAllEmployees)
+    .post(employeesController.createNewEmployee)
+    .put(employeesController.updateEmployee)
+    .delete(employeesController.deleteEmployee);
 
-/* Get request with parameter */
 router.route('/:id')
-    .get((req, res) => {
-        res.json({"id": req.params.id});
-    });
+    .get(employeesController.getEmployee);
 
 module.exports = router;

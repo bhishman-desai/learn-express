@@ -13,3 +13,14 @@
 20240520	23:30:06	053874de-e3a1-42b9-9166-12e97bc949a8	GET	undefined	/api/employees
 20240520	23:30:57	da5ba959-abde-4884-a4f5-4293b77d5239	GET	undefined	/employees
 20240520	23:30:59	fa530899-0cb0-405e-bbe0-1e3154b32c11	GET	undefined	/employees
+20240520	23:39:27	a1cf4457-1e00-40b3-876d-8a8b8ba959e7	GET	undefined	/employees
+20240520	23:47:07	d7ec5a03-691a-4353-a5df-12c49ff0202f	GET	undefined	/employees
+20240520	23:47:44	e521b09f-d4a7-438d-b232-e2abe2fc64a0	GET	undefined	/employees
+20240520	23:47:46	131a942e-6d10-4fc1-b415-8bb36c0e3a35	GET	undefined	/employees
+20240520	23:47:47	9f7a0513-6974-4691-85a2-baa0ac776436	GET	undefined	/employees
+20240520	23:47:48	e7494b30-c3c4-48e9-8c45-ab38f1cef0b9	GET	undefined	/employees
+20240520	23:47:49	d903b0c9-cf40-4c85-a095-85a895292ce7	GET	undefined	/employees
+20240520	23:47:55	d0a936f0-b990-4524-b6b7-65e2658e7d29	GET	undefined	/employees
+20240520	23:47:56	f0349944-73b9-4d88-9bd7-b48a3c256738	GET	undefined	/employees
+20240520	23:48:37	bbb113e9-fd36-4bec-8cb0-dca1d32eb2f4	POST	undefined	/employees
+20240520	23:48:45	151c97b1-88e6-4d7d-97fb-a8d40b78802d	GET	undefined	/employees
